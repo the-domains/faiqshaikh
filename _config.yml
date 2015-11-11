@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.9712125
+  brandStrength: 0.6577061
+  lightness: 0
+  brandColors:
+    - '#FFFFCE'
+    - '#01013B'
+    - '#D8B599'
+    - '#FC6E5B'
+    - '#A36D80'
+  rhythmicContrast: 0.7243308
+typography_spectrum: 0.4444444
+name: faiqshaikh
