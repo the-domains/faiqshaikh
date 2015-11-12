@@ -1,14 +1,28 @@
+name: faiqshaikh
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.4444444
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9712125
-  brandStrength: 0.6577061
-  lightness: 0
   brandColors:
     - '#FFFFCE'
     - '#01013B'
     - '#D8B599'
     - '#FC6E5B'
     - '#A36D80'
+  brandStrength: 0.6577061
+  lightness: 0
+  saturation: 0.9712125
   rhythmicContrast: 0.7243308
-typography_spectrum: 0.4444444
-name: faiqshaikh
+purpose: []
